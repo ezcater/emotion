@@ -15,7 +15,6 @@
     "test:typescript": "dtslint types"
   },
   "dependencies": {
-    "babel-plugin-emotion": "^9.2.11",
     "create-emotion-styled": "^9.2.8"
   },
   "peerDependencies": {
@@ -23,6 +22,7 @@
     "react": "15.x || 16.x"
   },
   "devDependencies": {
+    "babel-plugin-emotion": "^9.2.11",
     "@types/react": "16.0.16",
     "dtslint": "^0.3.0",
     "emotion": "^9.2.12"
